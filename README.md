@@ -4,7 +4,7 @@ This is a command-line Fitness application designed to help students manage thei
 
 ### 1 BMI Calculator
 
-1) Calculate BMI
+1) Calculate BMI and display what category it falls into
 2) Save your BMI and view history with dates
 
 ### 2 Calorie Tracker
@@ -15,7 +15,7 @@ This is a command-line Fitness application designed to help students manage thei
 ### 3 Activity Tracker
 
 1) Log daily steps
-2) View weekly steps and calories burned during the  week
+2) View weekly steps and calories burned during the week
 
 ### 4 Unit Converter
 
@@ -27,7 +27,8 @@ This is a command-line Fitness application designed to help students manage thei
 ### 5 Ai-Style Assistant and Quiz
 
 1) The assistant gives fitness advice based on keyword matching
-2) Questions based on fitness knowledge
+2) The assistant remembers the user's name
+3) The quiz tests users based on basic fitness knowledge, it advises on wrong answers and shows the total score
 
 
 
